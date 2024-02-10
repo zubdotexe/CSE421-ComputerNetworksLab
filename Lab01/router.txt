@@ -1,0 +1,11 @@
+router has two configurational type 
+1. startup configurational file
+2. running configurational file 
+
+router has two kinds of ram
+1. nvram (remembers everything when the power if off)
+2. ram (loses data when the power of router is off)
+
+*startup stored in nvram
+*running stored in ram
+
